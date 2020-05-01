@@ -2,7 +2,7 @@
 
 Fifteen Minute Food is a food delivery app that allows users to search for restaurants in the New York City area and place orders for food.
 
-[Front End Github](https://github.com/tdonovan79/fifteen-minute-food-frontend)<br/>
+[Front End Github](https://github.com/ShaquilleClarke/Fifteen-Minute-Foods---FrontEnd)<br/>
 [Live App](https://tdonovan79.github.io/fifteen-minute-food-frontend/)<br/>
 [Video Demo](https://www.youtube.com/watch?v=VLtyhTnysqU&feature=youtu.be)
 
